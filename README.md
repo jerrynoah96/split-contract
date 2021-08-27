@@ -1,10 +1,16 @@
 Split contract
 #Can mint and sell nft for ether
 
+#2 $stake tokens is transferred to any address that buys
+
 #ether deposit goes into contract
 
-#ether balance of contract can be splitted between 2 holders of $stake token holding atleast 10000 $stake each
+#10% of contract ether balance can splitted equally between any number of stake holders - addresses holding atleast 10000 $stake each
 
-address of $stake token on rinkeby - 0x72E0f4fE079fD507b0d9244427B5bEf5c46e79cb
+#10% of contract ether balance goes to the admin
 
-address of split contract on rinkeby - 0x6FBC1f0cdA6C538e2Ac8ce71C26d1F974efD7305
+#the rest of ether balance(80%) is splitted equally among top 5 $stake token holders
+
+address of $stake token on rinkeby - 0xFb353774Ace94C3Eaa9fD04E7D2C4c48537A4eDd
+
+address of split contract on rinkeby - 0xA9cddDB864482609124236955314AE11A3ada360

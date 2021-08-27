@@ -34,8 +34,8 @@ async function main() {
   console.log("$stakeToken deployed at:", $stake_address);
   console.log("split contract deployed at:", deployedSplitContract.address );
 }
-//stakeToken deployed at: 0x72E0f4fE079fD507b0d9244427B5bEf5c46e79cb
-//split contract deployed at: 0x6FBC1f0cdA6C538e2Ac8ce71C26d1F974efD7305
+//stakeToken deployed at: 0xFb353774Ace94C3Eaa9fD04E7D2C4c48537A4eDd
+//split contract deployed at: 0xA9cddDB864482609124236955314AE11A3ada360
 //both on rinkeby
 // We recommend this pattern to be able to use async/await everywhere
 // and properly handle errors.
